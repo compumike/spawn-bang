@@ -1,0 +1,11 @@
+name: spawn-bang
+version: 0.1.0
+description: |
+  Top-level spawn! method and macro which kills process with exit(1) on unhandled exception
+
+authors:
+  - Michael F. Robbins <mrobbins@alum.mit.edu>
+
+crystal: '>= 1.0.0'
+
+license: MIT
