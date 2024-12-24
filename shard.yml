@@ -1,5 +1,5 @@
 name: spawn-bang
-version: 0.1.0
+version: 1.0.0
 description: |
   Top-level spawn! method and macro which kills process with exit(1) on unhandled exception
 
